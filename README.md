@@ -53,3 +53,6 @@ A form to split a bill with the selected friend, allowing the user to specify th
    ```sh
    npm start
    ```
+![Screenshot 2025-02-04 at 22 52 42](https://github.com/user-attachments/assets/427a6bd0-c4a5-4f12-838e-59c0e5395b63)
+
+![Screenshot 2025-02-04 at 22 52 54](https://github.com/user-attachments/assets/c7da9741-8b3e-4cb6-8a86-dc82b971e183)
