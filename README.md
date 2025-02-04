@@ -53,12 +53,3 @@ A form to split a bill with the selected friend, allowing the user to specify th
    ```sh
    npm start
    ```
-
-## Known Issues
-- There is a typo in `handleSplitBill` function: `balanc` should be `balance`.
-
-## Future Enhancements
-- Persistent storage for friend list and balances.
-- UI improvements and styling refinements.
-- Additional features like group bill splitting.
-
